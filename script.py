@@ -51,7 +51,7 @@ Source: <a href='https://github.com/Shxbkzejxndk/dr-strange'>GitHub - Click here
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
+1.  Make me the admin of your channel if it's private.
 2. Make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
@@ -83,7 +83,7 @@ Paste some texts or documents on a website!
 • /paste [reply] - paste the replied text on Pasty
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -95,7 +95,7 @@ Do as you wish with telegra.ph module!
 • /tgmedia or /tgraph - upload supported media (within 5MB) to telegraph.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -109,7 +109,7 @@ Get information about something!
 • /json - get the json details of a message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -121,9 +121,9 @@ Translate texts to a specific language!
 • /tr [language code][reply] - translate replied message to specific language.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• Dя Sтяαиge𒈒 can translate texts to 200+ languages."""
 
     SEARCH_TXT = """Help: <b>IMDb</b>
 
@@ -134,7 +134,7 @@ Search many things without leaving telegram!
 • /search  - get the film information from various sources.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • More search tools can be found on inline.
 • Those commands works on both pm and group."""
 
@@ -146,7 +146,7 @@ Need to delete lots of messages? That's what purges are for!
 • /purge - delete all messages from the replied to message, to the current message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on group.
 • These commands can be used by Only admin."""
 
@@ -168,7 +168,7 @@ This module allows you to do that easily, by exposing some common actions, so ev
 -> <code>/tmute @username 2h</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on group.
 • These commands can be used by Only admin."""
 
@@ -181,7 +181,7 @@ All the pin related commands can be found here; keep your chat up to date on the
 • /unpin: Unpin the current pinned message. If used as a reply, unpins the replied to message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works only group.
 • These commands can be used by Only admin."""
 
@@ -211,7 +211,7 @@ This module only works for my admins
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
-__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
+__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our main Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
 
 **👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
 
@@ -227,7 +227,7 @@ Some dank memes for fun or whatever!
 • /runs strings
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -239,10 +239,10 @@ Some URLs is Shortner
 • /short <code>(link)</code> - I will send the shorted links.
 
 <b>Example:</b>
-<code>/short https://t.me/josprojects</code>
+<code>/short https://t.me/CLMRG</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -254,7 +254,7 @@ A module to convert text to voice with language support.
 • /tts - Reply to any text message with language code to convert as audio.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -268,10 +268,10 @@ Music download modules, for those who love music.
 
 <b>YouTube Thumbnail Download</b>
 • /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
+<b>Example:</b> <code>/ytthumb https://youtu.be/c9zr6aWbH0c</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -287,7 +287,7 @@ There Is Nothing To Know More. Send Me The Limit Of Your Password.
 • Only Digits Are Allowed
 • Maximum Allowed Digits Till 84 
 (I Can't Generate Passwords Above The Length 84)
-• IMDb should have admin privillage.
+• Dя Sтяαиge𒈒 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
