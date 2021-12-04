@@ -1,60 +1,49 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """👋𝙷𝙴𝙻𝙾 {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 🤓</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: Zaute Km
-➥ Library: Pyrogram
-➥ Language: Python 𝟹
-➥ Data Base: MongoDB
-➥ Bot Server: Railway/Heroku
-➥ Build Status: v1.0.1 [ Beta ]"""
-
+    ABOUT_TXT ="""✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Shamilmalik_10>SHAMIL MALIK</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Dя Sтяαиge𒈒 is a Open source project.
+Source: <a href='https://github.com/Shxbkzejxndk/dr-strange'>GitHub - Click here 👈</a>"""
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
-
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
-
-    MANUALFILTER_TXT = """Help: <b>Filters</b>
-
-- Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
-
+    MANUALFILTER_TXT =  """Help: <b>Filters</b>
+- Filter is the feature were users can set automated replies for a particular keyword and Dя Sтяαиge𒈒 will respond whenever a keyword is found the message
 <b>NOTE:</b>
-1. IMDb should have admin privillage.
-2. Only admins can add filters in a chat.
-3. Alert buttons have a limit of 64 characters.
-
+1. Dя Sтяαиge𒈒 should have admin privillage.
+2. only admins can add filters in a chat.
+3. alert buttons have a limit of 64 characters.
 <b>Commands and Usage:</b>
-• /filter - add a filter in chat.
-• /filters - list all the filters of a chat.
-• /del - delete a specific filter in chat.
-• /delall - delete the whole filters in a chat (chat owner only)."""
+• /filter - <code>add a filter in chat</code>
+• /filters - <code>list all the filters of a chat</code>
+• /del - <code>delete a specific filter in chat</code>
+• /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- Dя Sтяαиge𒈒 support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. IMDb supports buttons with any telegram media type.
+2. Dя Sтяαиge𒈒 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/CLMRG)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
